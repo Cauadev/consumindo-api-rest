@@ -1,4 +1,4 @@
-# consumindo-api-rest
+# Consumindo API REST feita com Spring: https://github.com/Cauadev/api-rest
 
 ## Project setup
 ```
